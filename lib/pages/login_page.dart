@@ -17,7 +17,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       body: Container(
         padding: EdgeInsets.symmetric(horizontal: 40),
-        color: Colors.grey[200],
+        color: Colors.white,
         // decoration: BoxDecoration(
         //   gradient: LinearGradient(
         //     colors: [
